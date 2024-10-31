@@ -1,0 +1,116 @@
+  ["GT_#$#$FBatMan@#@$$@"] = {
+    "Heros.BatManMenu",
+    "Heros.Menu"              
+
+    },
+
+  ["GT_#$#$FBatMan@#@$$@$#"] = {
+    "Heros.BatManMenu",
+    "Heros.Menu"              
+
+    },
+
+  ["GT_#$#$Joker@#@$$@"] = {
+    "Heros.JokerMenu",
+    "Heros.Menu"              
+
+    },
+
+  ["GT_#$#$Joker@#@$$@#"] = {
+    "Heros.JokerMenu",
+    "Heros.Menu"              
+
+    },
+
+  ["GT_#$#$Flash@#@$$@"] = {
+    "Heros.TheFlashMenu",
+    "Heros.Menu"              
+
+    },
+
+  ["GT_#$#$Flash@#@$$@#"] = {
+    "Heros.TheFlashMenu",
+    "Heros.Menu"              
+ 
+    },
+
+  ["GT_#$#$FCatwommen@#@$$@"] = {
+    "Heros.CatWoManMenu",
+    "Heros.Menu"              
+     
+    },
+                
+  ["GT_#$#$FCatwommen@#@$$@#"] = {
+    "Heros.CatWoManMenu",
+    "Heros.Menu"              
+    
+    },
+
+  ["GT_#$#$FSlenderMan@#@$$@"] = {
+    "Heros.SlenderManMenu",
+    "Heros.Menu"              
+         
+    },
+
+  ["GT_#$#$FSlenderMan@#@$$@#"] = {
+    "Heros.SlenderManMenu",
+    "Heros.Menu"              
+      
+    },
+
+  ["GT_#$#$FHitman@#@$$@"] = {
+    "Heros.HitManMenu",
+    "Heros.Menu"              
+              
+    },
+     
+  ["GT_#$#$FHitman@#@$$@#"] = {
+    "Heros.HitManMenu",
+    "Heros.Menu"              
+          
+    },
+
+  ["GT_#$#$FSuperMan@#@$$@"] = {
+      "Heros.SuperManMenu",
+      "Heros.Menu"              
+                
+    },
+  
+  ["GT_#$#$FSuperMan@#@$$@#"] = {
+      "Heros.SuperManMenu",
+      "Heros.Menu"              
+                   
+    },
+  ["GT_#$#$FHulk@#@$$@"] = {
+      "Heros.HulkMenu",
+      "Heros.Menu"              
+               
+    },
+  
+  ["GT_#$#$FHulk@#@$$@#"] = {
+      "Heros.HulkMenu",
+      "Heros.Menu"              
+               
+    },
+
+  ["GT_#$#$FSpiderMan@#@$$@"] = {
+      "Heros.SpiderManMenu",
+      "Heros.Menu"              
+               
+    },
+  
+  ["GT_#$#$FSpiderMan@#@$$@#"] = {
+      "Heros.SpiderManMenu",
+      "Heros.Menu"              
+           
+    },
+  ["GT_#$#$FIronMan@#@$$@"] = {
+        "Heros.IronManMenu",
+        "Heros.Menu"              
+                 
+    },
+    
+  ["GT_#$#$FIronMan@#@$$@#"] = {
+        "Heros.IronManMenu",
+        "Heros.Menu"              
+    },

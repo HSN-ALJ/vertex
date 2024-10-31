@@ -1,0 +1,116 @@
+["51_te_BatMan452"] = {
+    "51.BatMan",
+    "51.hero"              
+
+    },
+
+  ["51_te_BatMan452$#"] = {
+    "51.BatMan",
+    "51.hero"              
+
+    },
+
+  ["51_te_joker#!#"] = {
+    "51.Joker",
+    "51.hero"              
+
+    },
+
+  ["51_te_joker#!##"] = {
+    "51.Joker",
+    "51.hero"              
+
+    },
+
+  ["51_te_Flash!#"] = {
+    "51.TheFlash",
+    "51.hero"              
+
+    },
+
+  ["51_te_Flash!##"] = {
+    "51.TheFlash",
+    "51.hero"              
+ 
+    },
+
+  ["51_te_CatWoMan!#"] = {
+    "51.CatWoMan",
+    "51.hero"              
+     
+    },
+                
+  ["51_te_CatWoMan!##"] = {
+    "51.CatWoMan",
+    "51.hero"              
+    
+    },
+
+  ["51_te_SlenderMan!#"] = {
+    "51.SlenderMan",
+    "51.hero"              
+         
+    },
+
+  ["51_te_SlenderMan!##"] = {
+    "51.SlenderMan",
+    "51.hero"              
+      
+    },
+
+  ["51_te_HitMan!#"] = {
+    "51.HitMan",
+    "51.hero"              
+              
+    },
+     
+  ["51_te_HitMan!##"] = {
+    "51.HitMan",
+    "51.hero"              
+          
+    },
+
+  ["51_te_SuperMan!#"] = {
+      "51.SuperMan",
+      "51.hero"              
+                
+    },
+  
+  ["51_te_SuperMan!##"] = {
+      "51.SuperMan",
+      "51.hero"              
+                   
+    },
+  ["51_te_Hulk!#"] = {
+      "51.Hulk",
+      "51.hero"              
+               
+    },
+  
+  ["51_te_Hulk!##"] = {
+      "51.Hulk",
+      "51.hero"              
+               
+    },
+
+  ["51_te_SpiderMan!#"] = {
+      "51.SpiderMan",
+      "51.hero"              
+               
+    },
+  
+  ["51_te_SpiderMan!##"] = {
+      "51.SpiderMan",
+      "51.hero"              
+           
+    },
+  ["51_te_IronMan!#"] = {
+        "51.IronMan",
+        "	"              
+                 
+    },
+    
+  ["51_te_IronMan!##"] = {
+        "51.IronMan",
+        "51.hero"              
+    },
